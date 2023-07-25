@@ -466,7 +466,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	height: 8px;
 	margin: 0 auto;
 	text-align: center;
-	border: 2px solid #000;
+	border: 2px solid #fff;
 	border-radius: 27px;
 	background: #01FFA4;
 	position: relative;
