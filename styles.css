@@ -415,7 +415,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	font-weight: 900;
 	font-size: 46px;
 	line-height: 1;
-	color: #01FFA4;
+	color: #fff;
 	text-align: center;
 	text-transform: uppercase;
 	margin-bottom: 40px;
@@ -434,7 +434,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	font-size: 14px;
 	letter-spacing: 1px;
 	line-height: 1;
-	color: #000;
+	color: #01FFA4;
 	text-align: center;
 	margin-top: 15px;
 }
