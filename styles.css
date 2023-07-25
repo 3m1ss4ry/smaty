@@ -434,7 +434,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	font-size: 14px;
 	letter-spacing: 1px;
 	line-height: 1;
-	color: #8167a9;
+	color: #000;
 	text-align: center;
 	margin-top: 15px;
 }
@@ -512,7 +512,7 @@ body.light .cursor2.hover{
 	border-color: transparent;
 }
 body.light .logo-wrap a {
-	color: #01FFA4;
+	color: #000;
 }
 body.light .menu-icon__line {
 	background-color: #000;
