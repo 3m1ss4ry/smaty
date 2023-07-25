@@ -515,7 +515,7 @@ body.light .logo-wrap a {
 	color: #8167a9;
 }
 body.light .menu-icon__line {
-	background-color: #4bebcb;
+	background-color: #000;
 }
 body.light .nav:before {
 	background: rgba(235, 235, 235,0.6);
